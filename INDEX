@@ -9,6 +9,7 @@
 		</style>
 	</head>
 	<body>
+	<script>background:404040</script>
 		<script src="js/three.js"></script>
 		<script>
 			var scene = new THREE.Scene();
